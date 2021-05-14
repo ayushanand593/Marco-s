@@ -1,0 +1,169 @@
+body {
+  margin: 0px;
+  padding: 0px;
+
+  font-family: "Montserrat", sans-serif;
+  
+}
+#title-bar {
+  height: 70px;
+}
+.left {
+  display: inline-block;
+
+  position: absolute;
+  left: 60px;
+  top: 22px;
+  text-align: center;
+}
+.left img {
+  width: 35px;
+}
+.left div {
+  text-align: center;
+
+  font-size: 25px;
+}
+
+.right {
+  position: absolute;
+  right: 34px;
+  top: 20px;
+  display: inline-block;
+}
+.btn {
+  margin: 0px 9px;
+  background-color: black;
+  color: white;
+  padding: 3px 7px;
+  font-size: 15px;
+  cursor: pointer;
+  font-family: "Montserrat", sans-serif;
+}
+.btn:hover {
+  background-color: rgb(41, 37, 37);
+}
+#attraction{
+  margin-top: 0px;
+  background-color: #a58faa;
+}
+
+.hr1 {
+  margin-top: 0px;
+  padding: 2px 0px;
+  margin-bottom: 0px;
+ background: rgb(0, 0, 0);
+}
+.container-fluid{
+padding-top: 0px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+.navbar{
+  margin-bottom: 0px;
+}
+.navbar-brand{
+  padding-top:0px ;
+  padding-bottom: 0px;
+  margin-left: 3%;
+  margin-bottom: 0px;
+  
+}
+.navbar-brand:hover{
+  background-color: #404142;
+}
+.navbar-nav{
+  padding-top: 5px;
+  margin-bottom: 50px;
+}
+.nav-item{
+  padding: 0px 15px;
+}
+.nav-item:hover{
+  background-color: #3f4042;
+}
+.d-flex{
+  margin-top: 25px;
+  padding-top: 0;
+  padding-bottom: 10px;
+  width: 500px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+.navbar-collapse{
+  margin-top: 0px;
+  padding-top: 0px;
+  margin-bottom: 0px;
+}
+#products{
+ 
+  background-color: #f3f4ed;
+  line-height: 1.5rem;
+  margin-top: auto;
+  
+}
+.advertise{
+  padding-top: 7px;
+  text-align: center;
+  color: #51c4d3;
+}
+.carousel-item img{
+width: 400px;
+height: 800px;
+line-height: 1;
+margin: auto;
+}
+
+h5{
+  color: #51c4d3;
+}
+p{
+  color: #4aa96c;
+}
+p a{
+  text-decoration: none;
+  color: #51c4d3;
+}
+#ourproducts{
+  background-color:#51c4d3 ;
+}
+.product{
+  text-align: center;
+  background-color: #f3f4ed;
+  padding: 5px 0px;
+  color:rgb(73, 70, 70) ;
+}
+.card-body{
+  text-align: center;
+  background-color: #dbf6e9;
+}
+.cardtitle{
+  text-align: center;
+}
+.card-header{
+  background-color: grey;
+}
+.bg{
+  
+  height: 150px;
+  width: 200px;
+}
+.card{
+  padding: 5px 20px;
+}
+#supportteams{
+  background-color: #f3f4ed;
+  color: rgb(66, 66, 66);
+}
+.shop{
+  margin-left: 2px;
+}
+
+#footer{
+  background-color: #fff;
+  text-align: center;
+}
+.social-icon{
+  margin: 20px 10px;
+}
